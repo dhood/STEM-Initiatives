@@ -52,6 +52,8 @@
 ## Apac
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
+| Engineers Australia Women in Engineering | The (Sydney) Women in Engineering Division strives to give all female engineers a platform on which to connect and thrive.  Check LinkedIn pages of local divisions for events. | Australia | [Website for Sydney](https://www.linkedin.com/company/wie-sydney/) |
+|  |  | | |
 | SHE# | Our mission is to bridge the gender gap in the STEM Industry, one woman at a time. We also aim to span across New Zealand and build She# nationwide | New Zeland |[Website](https://shesharp.org.nz/) |
 |  |  | | |
 | Sheflies | She Flies is Girl Geek Academy’s initiative to increase women representation, capacity, and cooperation in the fabulous fields of drones, space and aviation | Australia|[Website](https://girlgeekacademy.com/sheflies/) |
@@ -129,6 +131,10 @@
 ## Apac
 | Name Project | Description | Country |link |
 | -- | -- | -- |-- |
+| InterEngineer | InterEngineer is a network of LGBTQIA+ engineering professionals & allies from metro, regional & remote Australia. | Australia | [LinkedIn](https://www.linkedin.com/company/interengineer/) |
+|  |  | | |
+| InterEngineer | We are committed to expressing our culture as a form of awareness within the industry and developing a link with current indigenous engineers, so as to form a cohesive group of shared knowledge, perspectives and inspiration for young professional and upcoming engineers.  | Australia | [LinkedIn](https://www.linkedin.com/groups/7076055/) |
+|  |  | | |
 | WITJ - Women In Technology Japan | WITJ is a volunteer organization to create a community for professional IT | Japan |[Website](https://www.facebook.com/WITJapan/) |
 |  |  | | |
 | Women in Tech Russia| Helping Women and Girls #EmbraceTech | Russia |[Website](https://www.facebook.com/womenintechrus/) |
